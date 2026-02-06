@@ -22,7 +22,7 @@ TrustTunnel VPN Installer allows users to effortlessly set up the TrustTunnel VP
 1. **Download and Run the Installer Script**
 
    ```bash
-   bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/TrustTunnel-Installer/main/installer.sh)
+   bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/tt-installer/main/installer.sh)
    ```
 
 ## Usage
