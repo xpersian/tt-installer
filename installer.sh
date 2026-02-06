@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# ============================================================================
-# TrustTunnel VPN Manager
-# A comprehensive installation and management script for TrustTunnel VPN
-# ============================================================================
-
 set -e
 
 # Configuration
